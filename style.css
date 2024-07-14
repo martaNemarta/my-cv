@@ -1,0 +1,133 @@
+.heading{
+    display: flex;
+    justify-content: center;
+}
+.peter{
+    font-size: 20px;
+}
+.grad{
+    background: rgb(238,174,202);
+background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+
+}
+.promm{
+    font-family: 'VT323', monospace;
+    font-size:25px;
+}
+
+#end{
+    margin-bottom: 100px;
+}
+#tap{
+    display: flex;
+    justify-content: center;
+}
+#btn{
+    padding: 20px;
+    border-radius: 13px;
+    border: none;
+    transition-duration: 2s;
+}
+#par{
+    color: #8294C4;
+    font-size:10px;
+}
+#one{
+    border: 5px solid;
+    border-style: inset;
+    height: 420px;
+    padding: 40px;
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: auto;
+}
+.marta{
+    padding:90px;
+    display: flex;
+    justify-content: center;
+}
+.martaOne{
+    display: flex;
+    align-self: center;
+    justify-content:space-evenly;
+}
+
+#text{
+    align-self:flex-start ;
+}
+#four{
+    border: 5px solid;
+    border-style: inset;
+    height: 420px;
+    padding: 40px;
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: auto;
+}
+#five{
+    border: 5px solid;
+    border-style: inset;
+    height: 420px;
+    padding: 40px;
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: auto;
+}
+.mama{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#six{
+    border:  5px solid;
+    border-style: inset;
+    height: 420px;
+    padding: 50px;
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: auto;
+}
+#seven{
+    border: 5px solid;
+    border-style: inset;
+    height: 420px;
+    padding: 40px;
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: auto;
+}
+#three{
+    border: 5px solid;
+    border-style: inset;
+    height: 420px;
+    padding: 40px;
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: auto;
+}
+#two{
+    border: 5px solid;
+    border-style: inset;
+    height: 420px;
+    padding: 40px;
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: auto;
+}
+body{
+    transition-duration: 5s;
+}
